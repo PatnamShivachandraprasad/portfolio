@@ -196,7 +196,7 @@
   }
   .para{
     font-size: medium;
-    font-style: italic;
-    color: rgb(187, 139, 122);
+    font-style: "Poppins", serif;
+    color: rgb(120, 228, 48);
     padding-top: 30px;
   }
